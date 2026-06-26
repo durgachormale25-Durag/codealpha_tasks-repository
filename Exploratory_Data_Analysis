@@ -1,0 +1,29 @@
+# Exploratory Data Analysis (EDA)
+
+## Project Overview
+This project is part of the CodeAlpha Data Analytics Internship. The objective is to perform Exploratory Data Analysis (EDA) on a dataset to understand its structure, identify patterns, detect missing values, and generate useful insights.
+
+## Tools Used
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Files Included
+- EDA.ipynb
+- Report.pdf
+- dataset.csv
+- README.md
+
+## Analysis Performed
+- Data Loading
+- Data Cleaning
+- Handling Missing Values
+- Descriptive Statistics
+- Data Visualization
+- Insights and Conclusions
+
+## Conclusion
+The dataset was explored successfully using EDA techniques. Visualizations and statistical analysis helped identify important trends and patterns in the data.
